@@ -19,3 +19,8 @@ torch-geometric 2.1.0
 You can train the model of 5-fold cross-validation with a very simple way by the command blow:  
 
 python main.py
+
+# Acknowledgement:
+
+We refer to the code of BGF-CMAP https://doi.org/10.1093/bib/bbae058
+
